@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LockScreenTest</string>
+    <string name="get_admin">获得管理权限</string>
+    <string name="get_cancel">取消权限</string>
+    <string name="get_lock">锁屏</string>
+    <string name="set_lock">配置锁屏</string>
+    <string name="lock_screen">锁屏</string>
+</resources>
